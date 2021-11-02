@@ -1,0 +1,40 @@
+2021-10-28 09:24:34,416 INFO c.h.d.c.UsrControllerTest [StartupInfoLogger.java : 55] [] Starting UsrControllerTest using Java 1.8.0_251 on LAPTOP-RMQVDH9R with PID 62340 (started by HiF in D:\Codes\IntelliJ-WorkSpace\Yue_lao_demo)
+2021-10-28 09:24:34,425 DEBUG c.h.d.c.UsrControllerTest [StartupInfoLogger.java : 56] [] Running with Spring Boot v2.4.5, Spring v5.3.6
+2021-10-28 09:24:34,430 INFO c.h.d.c.UsrControllerTest [SpringApplication.java : 675] [] No active profile set, falling back to default profiles: default
+2021-10-28 09:24:47,399 INFO c.h.d.c.UsrControllerTest [StartupInfoLogger.java : 61] [] Started UsrControllerTest in 14.342 seconds (JVM running for 17.098)
+2021-10-28 09:24:48,015 INFO c.h.d.DemoApplicationTests [DemoApplicationTests.java : 41] [] param {"usrName":"HiF","password":"123456"}
+2021-10-28 09:24:48,977 DEBUG c.h.d.d.U.login [BaseJdbcLogger.java : 137] [] ==>  Preparing: SELECT password FROM usr_info WHERE usr_name = ?
+2021-10-28 09:24:49,059 DEBUG c.h.d.d.U.login [BaseJdbcLogger.java : 137] [] ==> Parameters: HiF(String)
+2021-10-28 09:24:49,164 DEBUG c.h.d.d.U.login [BaseJdbcLogger.java : 137] [] <==      Total: 1
+2021-10-28 09:25:48,087 INFO c.h.d.c.UsrControllerTest [StartupInfoLogger.java : 55] [] Starting UsrControllerTest using Java 1.8.0_251 on LAPTOP-RMQVDH9R with PID 55676 (started by HiF in D:\Codes\IntelliJ-WorkSpace\Yue_lao_demo)
+2021-10-28 09:25:48,089 DEBUG c.h.d.c.UsrControllerTest [StartupInfoLogger.java : 56] [] Running with Spring Boot v2.4.5, Spring v5.3.6
+2021-10-28 09:25:48,095 INFO c.h.d.c.UsrControllerTest [SpringApplication.java : 675] [] No active profile set, falling back to default profiles: default
+2021-10-28 09:25:59,858 INFO c.h.d.c.UsrControllerTest [StartupInfoLogger.java : 61] [] Started UsrControllerTest in 12.927 seconds (JVM running for 15.254)
+2021-10-28 09:26:00,144 INFO c.h.d.DemoApplicationTests [DemoApplicationTests.java : 41] [] param {"usrName":"HiF","password":"123456"}
+2021-10-28 09:26:00,733 DEBUG c.h.d.d.U.login [BaseJdbcLogger.java : 137] [] ==>  Preparing: SELECT password FROM usr_info WHERE usr_name = ?
+2021-10-28 09:26:00,805 DEBUG c.h.d.d.U.login [BaseJdbcLogger.java : 137] [] ==> Parameters: HiF(String)
+2021-10-28 09:26:00,873 DEBUG c.h.d.d.U.login [BaseJdbcLogger.java : 137] [] <==      Total: 1
+2021-10-28 09:29:15,472 INFO c.h.d.c.UsrControllerTest [StartupInfoLogger.java : 55] [] Starting UsrControllerTest using Java 1.8.0_251 on LAPTOP-RMQVDH9R with PID 28296 (started by HiF in D:\Codes\IntelliJ-WorkSpace\Yue_lao_demo)
+2021-10-28 09:29:15,476 DEBUG c.h.d.c.UsrControllerTest [StartupInfoLogger.java : 56] [] Running with Spring Boot v2.4.5, Spring v5.3.6
+2021-10-28 09:29:15,482 INFO c.h.d.c.UsrControllerTest [SpringApplication.java : 675] [] No active profile set, falling back to default profiles: default
+2021-10-28 09:29:27,059 INFO c.h.d.c.UsrControllerTest [StartupInfoLogger.java : 61] [] Started UsrControllerTest in 12.663 seconds (JVM running for 15.121)
+2021-10-28 09:29:27,268 INFO c.h.d.DemoApplicationTests [DemoApplicationTests.java : 41] [] param {"usrName":"HiF","password":"123456"}
+2021-10-28 09:29:27,713 DEBUG c.h.d.d.U.login [BaseJdbcLogger.java : 137] [] ==>  Preparing: SELECT password FROM usr_info WHERE usr_name = ?
+2021-10-28 09:29:27,750 DEBUG c.h.d.d.U.login [BaseJdbcLogger.java : 137] [] ==> Parameters: HiF(String)
+2021-10-28 09:29:27,786 DEBUG c.h.d.d.U.login [BaseJdbcLogger.java : 137] [] <==      Total: 1
+2021-10-28 09:34:27,699 INFO c.h.d.c.UsrControllerTest [StartupInfoLogger.java : 55] [] Starting UsrControllerTest using Java 1.8.0_251 on LAPTOP-RMQVDH9R with PID 54476 (started by HiF in D:\Codes\IntelliJ-WorkSpace\Yue_lao_demo)
+2021-10-28 09:34:27,702 DEBUG c.h.d.c.UsrControllerTest [StartupInfoLogger.java : 56] [] Running with Spring Boot v2.4.5, Spring v5.3.6
+2021-10-28 09:34:27,711 INFO c.h.d.c.UsrControllerTest [SpringApplication.java : 675] [] No active profile set, falling back to default profiles: default
+2021-10-28 09:34:39,549 INFO c.h.d.c.UsrControllerTest [StartupInfoLogger.java : 61] [] Started UsrControllerTest in 12.948 seconds (JVM running for 15.151)
+2021-10-28 09:34:39,704 INFO c.h.d.DemoApplicationTests [DemoApplicationTests.java : 41] [] param {"usrName":"HiF","password":"12345 6"}
+2021-10-28 09:34:40,303 DEBUG c.h.d.d.U.login [BaseJdbcLogger.java : 137] [] ==>  Preparing: SELECT password FROM usr_info WHERE usr_name = ?
+2021-10-28 09:34:40,368 DEBUG c.h.d.d.U.login [BaseJdbcLogger.java : 137] [] ==> Parameters: HiF(String)
+2021-10-28 09:34:40,434 DEBUG c.h.d.d.U.login [BaseJdbcLogger.java : 137] [] <==      Total: 1
+2021-10-28 09:35:02,755 INFO c.h.d.c.UsrControllerTest [StartupInfoLogger.java : 55] [] Starting UsrControllerTest using Java 1.8.0_251 on LAPTOP-RMQVDH9R with PID 35752 (started by HiF in D:\Codes\IntelliJ-WorkSpace\Yue_lao_demo)
+2021-10-28 09:35:02,759 DEBUG c.h.d.c.UsrControllerTest [StartupInfoLogger.java : 56] [] Running with Spring Boot v2.4.5, Spring v5.3.6
+2021-10-28 09:35:02,766 INFO c.h.d.c.UsrControllerTest [SpringApplication.java : 675] [] No active profile set, falling back to default profiles: default
+2021-10-28 09:35:14,600 INFO c.h.d.c.UsrControllerTest [StartupInfoLogger.java : 61] [] Started UsrControllerTest in 12.889 seconds (JVM running for 15.254)
+2021-10-28 09:35:14,763 INFO c.h.d.DemoApplicationTests [DemoApplicationTests.java : 41] [] param {"usrName":"HiF","password":"123456"}
+2021-10-28 09:35:15,427 DEBUG c.h.d.d.U.login [BaseJdbcLogger.java : 137] [] ==>  Preparing: SELECT password FROM usr_info WHERE usr_name = ?
+2021-10-28 09:35:15,496 DEBUG c.h.d.d.U.login [BaseJdbcLogger.java : 137] [] ==> Parameters: HiF(String)
+2021-10-28 09:35:15,554 DEBUG c.h.d.d.U.login [BaseJdbcLogger.java : 137] [] <==      Total: 1
