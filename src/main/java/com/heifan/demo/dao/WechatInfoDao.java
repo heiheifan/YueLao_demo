@@ -1,7 +1,7 @@
 package com.heifan.demo.dao;
 
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
-import com.heifan.demo.entity.WechantInfo;
+import com.heifan.demo.entity.WechatInfo;
 import org.springframework.stereotype.Repository;
 
 /**
@@ -13,6 +13,6 @@ import org.springframework.stereotype.Repository;
  * @since 2021-10-30
  */
 @Repository
-public interface WechantInfoDao extends BaseMapper<WechantInfo> {
+public interface WechatInfoDao extends BaseMapper<WechatInfo> {
 
 }

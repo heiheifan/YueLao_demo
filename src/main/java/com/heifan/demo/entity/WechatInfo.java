@@ -9,7 +9,7 @@ import java.io.Serializable;
 
 @Data
 @TableName("wechant_info")
-public class WechantInfo implements Serializable {
+public class WechatInfo implements Serializable {
 
     private static final long serialVersionUID = 1L;
 

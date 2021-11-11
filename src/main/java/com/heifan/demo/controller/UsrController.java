@@ -22,7 +22,15 @@ public class UsrController {
 
     @Autowired
     UsrServiceI usrService;
-
+    /**
+     *
+     * @Param usrParam
+	 * @Param request
+	 * @Param response
+     * @Return java.lang.Object
+     * @Author (HiF)
+     * @Date 2021/11/3 10:39
+     */
     @RequestMapping("/login")
     public Object login(@RequestBody UsrParam usrParam,
                         HttpServletRequest request,

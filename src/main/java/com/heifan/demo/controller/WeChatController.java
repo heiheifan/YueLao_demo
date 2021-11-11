@@ -5,5 +5,5 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @RequestMapping("/wechant")
-public class WeChantController {
+public class WeChatController {
 }
