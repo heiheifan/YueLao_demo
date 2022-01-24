@@ -1,6 +1,8 @@
 spring:
   application:
     name: yue-lao-demo
+  profiles:
+    active: dev
   datasource:
     url: jdbc:mysql://localhost:3306/yuelao?useSSL=false&useUnicode=true&autoReconnect=true&failOverReadOnly=false
     username: root
@@ -19,3 +21,12 @@ server:
     context-path: /yuelao
 logging:
   config: classpath:logback-dev.xml
+  level:
+    com:
+      heifan:
+        demo:
+          dao: debug
+
+logback:
+  file:
+    path: /opt/demo/data/logs/
